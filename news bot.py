@@ -11,9 +11,9 @@ AUTH_TOKEN = '743c6b62e6e9065d8163abc43b7e9df1'  # Your Twilio Auth Token
 
 # List of WhatsApp numbers to send the message to
 WHATSAPP_NUMBERS = [
-    'whatsapp:+919051770644',  # Add more numbers as needed
-    'whatsapp:+919143271005',  # Another example
-    'whatsapp:+918293312171'   # Yet another example
+    'whatsapp:+919051770645',  # Add more numbers as needed
+    'whatsapp:+919143271042',  # Another example
+    'whatsapp:+918293312764'   # Yet another example
 ]
 
 # Bengali News RSS Feed URL (Replace with any Bengali news RSS feed)
