@@ -4,16 +4,16 @@ from twilio.rest import Client
 import logging
 
 # === SETTINGS ===
-NEWS_API_KEY = 'f9adae143f4a4e738932ce3122d7ff31'  # Your News API Key
+NEWS_API_KEY = ''  # Your News API Key
 TWILIO_WHATSAPP_NUMBER = 'whatsapp:+14155238886'  # Twilio Sandbox or Verified WhatsApp Number
-ACCOUNT_SID = 'AC5499642e06a42b3977a8db6cb3c37ee9'  # Your Twilio SID
-AUTH_TOKEN = '743c6b62e6e9065d8163abc43b7e9df1'  # Your Twilio Auth Token
+ACCOUNT_SID = ''  # Your Twilio SID
+AUTH_TOKEN = ''  # Your Twilio Auth Token
 
 # List of WhatsApp numbers to send the message to
 WHATSAPP_NUMBERS = [
-    'whatsapp:+919051770645',  # Add more numbers as needed
-    'whatsapp:+919143271042',  # Another example
-    'whatsapp:+918293312764'   # Yet another example
+    'whatsapp:+91...',  # Add more numbers as needed
+    'whatsapp:+91...',  # Another example
+    'whatsapp:+91...'   # Yet another example
 ]
 
 # Bengali News RSS Feed URL (Replace with any Bengali news RSS feed)
